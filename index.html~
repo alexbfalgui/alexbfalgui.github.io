@@ -2,8 +2,10 @@
 <html>
   <head>
     <title>Home | Alexander B. Falgui</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
+  <!-- Welcome Message -->
     <p>
       My name is Alexander B. Falgui and this is my personal website. 
       <br /></br />
@@ -33,9 +35,6 @@
       so view this page to read about <a href="www.catb.org/esr/faqs/hacker-
       howto.html">"How To Become A Hacker"</a> By Eric Steven Raymond.
       <br /></br />
-      
-      You may see my activities at:<br /><br />
-      Github Codecademy
     </p>
   </body>
 </html>

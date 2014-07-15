@@ -1,0 +1,4 @@
+#homepage {
+  background-color:silver;
+  font-size:24px;
+}
